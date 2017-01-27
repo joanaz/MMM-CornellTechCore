@@ -1,0 +1,7 @@
+.DS_Store
+*/certs
+*.crt
+*.key
+*.pem
+node_modules
+keys.json

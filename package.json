@@ -1,0 +1,24 @@
+{
+  "name": "Magic-Mirror-Module-Cornell-Tech-Core",
+  "version": "1.0.0",
+  "description": "Cornell Tech Core service",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanaz/MMM-CornellTechCore"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "module",
+    "Core",
+    "Google Calendar"
+  ],
+  "author": "Joanna Zhang",
+  "contributors": "https://github.com/joanaz/MMM-CornellTechCore/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joanaz/MMM-CornellTechCore/issues"
+  },
+  "homepage": "https://github.com/joanaz/MMM-CornellTechCore#readme",
+  "dependencies": {}
+}
